@@ -1,0 +1,1 @@
+C:\wamp\bin\php\php5.5.12\php.exe -q C:\wamp\www\daoru\chongzhi2.php
